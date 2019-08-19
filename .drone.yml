@@ -5,7 +5,7 @@ workspace:
   base: /go
   path: src/github.com/noldeni/go-drone-hello-world
 
-#steps:
+steps:
 #  - name: report
 #    image: golang
 #    volumes:
